@@ -18,7 +18,7 @@ First, check if there is no tag for the version you want on Docker Hub.
 If not you can build, the version you want directly from my repository like this :
 
 ```
-docker build -t ecosurvivalserver --build-arg ECO_VERSION=0.7.2.4-beta https://github.com/Fanged-Hex/EcoSurvivalServer.git
+docker build -t ecosurvivalserver --build-arg ECO_VERSION=0.8.3.3-beta https://github.com/surcoufx83/EcoSurvivalServer.git
 ```
 
 Replace 0.7.2.4-beta by the version you want :)
